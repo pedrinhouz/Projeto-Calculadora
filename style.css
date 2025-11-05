@@ -54,7 +54,7 @@ button {
 }
 
 button:active{
-    transform: scale(1);
+    transform: scale(0.95);
 }
 
 #botao1{
@@ -68,4 +68,5 @@ button:active{
 }
 #botao4{
     background-color: #7A39D7;
+
 }
